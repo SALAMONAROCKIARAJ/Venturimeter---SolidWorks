@@ -1,0 +1,11 @@
+2022-Jan-21 18:51:13
+Computer name:	DESKTOP-IGJN6G3
+Number of cores used in calculation:	8
+Configuration name:	Default
+Project name:	Flow test
+
+Warnings on last iteration: 
+1. Negative pressure :
+	Minimum pressure=-282241 Pa; dV/V=4.68916
+2. A vortex crosses the pressure opening :
+	Boundary Condition : Environment Pressure 2 ; Inlet flow/outlet flow=0.300857

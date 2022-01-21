@@ -1,0 +1,389 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2021 SP0.0. Build: 5075
+                Computer name:   DESKTOP-IGJN6G3
+                User name:   Salamon
+                Processors:   Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+                Memory:   8039 MB / 3193 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.19042)
+                CAD version:   SOLIDWORKS 2021 SP0.0
+                CPU speed:   2401 MHz
+
+    General Info
+                Model:   Part1.SLDPRT
+                Project name:   Flow test
+                Project path:   F:\solid works diagram\Venturimeter\solidworks file\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   Internal
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global Coordinate System
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                Cavitation:   Off
+                High Mach number flow:   Off
+                Free surface:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -0.057 m
+                X max:   0.139 m
+                Y min:   -0.025 m
+                Y max:   0.025 m
+                Z min:   -0.025 m
+                Z max:   0.025 m
+                X size:   0.196 m
+                Y size:   0.050 m
+                Z size:   0.050 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   24
+                Number of cells in Y:   6
+                Number of cells in Z:   6
+
+        Number Of Cells
+                Cells:   2211
+                Fluid cells:   2211
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   1
+
+    Goals
+
+        Point Goals
+
+            PG Static Pressure 1
+                Type:   Point Goal
+                Goal type:   Static Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point4@Sketch4
+                X:   -0.037 m
+                Y:   -0.018 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Total Pressure 2
+                Type:   Point Goal
+                Goal type:   Total Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point4@Sketch4
+                X:   -0.037 m
+                Y:   -0.018 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Dynamic Pressure 3
+                Type:   Point Goal
+                Goal type:   Dynamic Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point4@Sketch4
+                X:   -0.037 m
+                Y:   -0.018 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Temperature (Fluid) 4
+                Type:   Point Goal
+                Goal type:   Temperature (Fluid)
+                Coordinate system:   Global Coordinate System
+                Name:   Point4@Sketch4
+                X:   -0.037 m
+                Y:   -0.018 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Velocity 5
+                Type:   Point Goal
+                Goal type:   Velocity
+                Coordinate system:   Global Coordinate System
+                Name:   Point4@Sketch4
+                X:   -0.037 m
+                Y:   -0.018 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Static Pressure 6
+                Type:   Point Goal
+                Goal type:   Static Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point5@Sketch4
+                X:   -0.038 m
+                Y:   0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Total Pressure 7
+                Type:   Point Goal
+                Goal type:   Total Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point5@Sketch4
+                X:   -0.038 m
+                Y:   0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Dynamic Pressure 8
+                Type:   Point Goal
+                Goal type:   Dynamic Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point5@Sketch4
+                X:   -0.038 m
+                Y:   0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Temperature (Fluid) 9
+                Type:   Point Goal
+                Goal type:   Temperature (Fluid)
+                Coordinate system:   Global Coordinate System
+                Name:   Point5@Sketch4
+                X:   -0.038 m
+                Y:   0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Velocity 10
+                Type:   Point Goal
+                Goal type:   Velocity
+                Coordinate system:   Global Coordinate System
+                Name:   Point5@Sketch4
+                X:   -0.038 m
+                Y:   0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Static Pressure 11
+                Type:   Point Goal
+                Goal type:   Static Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point1@Sketch4
+                X:   0.030 m
+                Y:   0 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Total Pressure 12
+                Type:   Point Goal
+                Goal type:   Total Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point1@Sketch4
+                X:   0.030 m
+                Y:   0 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Dynamic Pressure 13
+                Type:   Point Goal
+                Goal type:   Dynamic Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point1@Sketch4
+                X:   0.030 m
+                Y:   0 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Temperature (Fluid) 14
+                Type:   Point Goal
+                Goal type:   Temperature (Fluid)
+                Coordinate system:   Global Coordinate System
+                Name:   Point1@Sketch4
+                X:   0.030 m
+                Y:   0 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Velocity 15
+                Type:   Point Goal
+                Goal type:   Velocity
+                Coordinate system:   Global Coordinate System
+                Name:   Point1@Sketch4
+                X:   0.030 m
+                Y:   0 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Static Pressure 16
+                Type:   Point Goal
+                Goal type:   Static Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point2@Sketch4
+                X:   0.101 m
+                Y:   0.013 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Total Pressure 17
+                Type:   Point Goal
+                Goal type:   Total Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point2@Sketch4
+                X:   0.101 m
+                Y:   0.013 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Dynamic Pressure 18
+                Type:   Point Goal
+                Goal type:   Dynamic Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point2@Sketch4
+                X:   0.101 m
+                Y:   0.013 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Temperature (Fluid) 19
+                Type:   Point Goal
+                Goal type:   Temperature (Fluid)
+                Coordinate system:   Global Coordinate System
+                Name:   Point2@Sketch4
+                X:   0.101 m
+                Y:   0.013 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Velocity 20
+                Type:   Point Goal
+                Goal type:   Velocity
+                Coordinate system:   Global Coordinate System
+                Name:   Point2@Sketch4
+                X:   0.101 m
+                Y:   0.013 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Static Pressure 21
+                Type:   Point Goal
+                Goal type:   Static Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point3@Sketch4
+                X:   0.102 m
+                Y:   -0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Total Pressure 22
+                Type:   Point Goal
+                Goal type:   Total Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point3@Sketch4
+                X:   0.102 m
+                Y:   -0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Dynamic Pressure 23
+                Type:   Point Goal
+                Goal type:   Dynamic Pressure
+                Coordinate system:   Global Coordinate System
+                Name:   Point3@Sketch4
+                X:   0.102 m
+                Y:   -0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Temperature (Fluid) 24
+                Type:   Point Goal
+                Goal type:   Temperature (Fluid)
+                Coordinate system:   Global Coordinate System
+                Name:   Point3@Sketch4
+                X:   0.102 m
+                Y:   -0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+            PG Velocity 25
+                Type:   Point Goal
+                Goal type:   Velocity
+                Coordinate system:   Global Coordinate System
+                Name:   Point3@Sketch4
+                X:   0.102 m
+                Y:   -0.015 m
+                Z:   0 m
+                Use in convergence :   On
+
+        Surface Goals
+
+            SG Minimum Velocity 1
+                Type:   Surface Goal
+                Goal type:   Velocity
+                Calculate:   Minimum value
+                Faces:   Face<1>
+                Coordinate system:   Global Coordinate System
+                Use in convergence :   On
+
+            SG Minimum Velocity 2
+                Type:   Surface Goal
+                Goal type:   Velocity
+                Calculate:   Minimum value
+                Faces:   Face<1>
+                Coordinate system:   Global Coordinate System
+                Use in convergence :   On
+
+        Equation Goals
+
+            Change in velocity
+                Type:   Equation Goal
+                Formula:   SG Minimum Velocity 2-SG Minimum Velocity 1
+                Dimensionality:   Velocity
+                Use in convergence :   On
+
+    Goals
+                
+                Name                        	Unit   	Value        	Progress   	Criteria         	Delta            	Use in convergence 
+                PG Static Pressure 1        	Pa     	200454.17    	100        	11588.2507       	4363.65971       	On                 
+                PG Total Pressure 2         	Pa     	200946.66    	100        	11589.925        	4363.74576       	On                 
+                PG Dynamic Pressure 3       	Pa     	492.49       	100        	2.28249332       	0.0680174046     	On                 
+                PG Temperature (Fluid) 4    	K      	293.20       	100        	0.000392306698   	0.000109916859   	On                 
+                PG Velocity 5               	m/s    	0.989        	100        	0.0028718591     	4.38956408e-05   	On                 
+                PG Static Pressure 6        	Pa     	200457.77    	100        	11587.9099       	4363.63133       	On                 
+                PG Total Pressure 7         	Pa     	200961.72    	100        	11588.9141       	4363.72536       	On                 
+                PG Dynamic Pressure 8       	Pa     	503.95       	100        	1.38810313       	0.109667509      	On                 
+                PG Temperature (Fluid) 9    	K      	293.20       	100        	0.000365830802   	0.00010142235    	On                 
+                PG Velocity 10              	m/s    	1.001        	100        	0.00167195179    	0.000117172323   	On                 
+                PG Static Pressure 11       	Pa     	-164925.92   	100        	8002.73389       	4389.34257       	On                 
+                PG Total Pressure 12        	Pa     	169261.62    	100        	7143.76444       	4412.22547       	On                 
+                PG Dynamic Pressure 13      	Pa     	334187.53    	100        	976.39411        	681.24855        	On                 
+                PG Temperature (Fluid) 14   	K      	293.20       	100        	0.00728649236    	0.0011199101     	On                 
+                PG Velocity 15              	m/s    	25.837       	100        	0.0441628246     	0.0317789916     	On                 
+                PG Static Pressure 16       	Pa     	100640.81    	100        	533.320177       	372.590991       	On                 
+                PG Total Pressure 17        	Pa     	101213.13    	100        	583.282356       	312.902085       	On                 
+                PG Dynamic Pressure 18      	Pa     	572.33       	100        	134.547866       	73.5392282       	On                 
+                PG Temperature (Fluid) 19   	K      	293.20       	100        	0.00139907043    	0.000752087863   	On                 
+                PG Velocity 20              	m/s    	1.060        	100        	0.153039958      	0.0772179186     	On                 
+                PG Static Pressure 21       	Pa     	100842.02    	100        	454.83563        	310.551418       	On                 
+                PG Total Pressure 22        	Pa     	103632.50    	100        	696.990779       	694.139554       	On                 
+                PG Dynamic Pressure 23      	Pa     	2790.48      	100        	398.330839       	220.282577       	On                 
+                PG Temperature (Fluid) 24   	K      	293.21       	100        	0.00144985435    	0.000943489527   	On                 
+                PG Velocity 25              	m/s    	1.820        	100        	0.21252371       	0.126250303      	On                 
+                SG Minimum Velocity 1       	m/s    	0.511        	100        	5.10855774e-09   	0                	On                 
+                SG Minimum Velocity 2       	m/s    	0.212        	100        	0.123108357      	0.0991185677     	On                 
+                Change in velocity          	m/s    	-0.298       	100        	0.123108357      	0.0991185677     	On                 
+
+    General Info
+                Run at:   DESKTOP-IGJN6G3
+                Number of cores:   8
+                Iterations:   69
+                CPU time:   7 s
+
+        Log
+                Mesh generation started	0:   18:51:06 , Jan 21
+                Mesh generation normally finished	0:   18:51:06 , Jan 21
+                Preparing data for calculation	0:   18:51:06 , Jan 21
+                Calculation started	0:   18:51:07 , Jan 21
+                Calculation has converged since the following criteria are satisfied:	69:   18:51:13 , Jan 21
+                    Goals are converged	69:   
+                Calculation finished	69:   18:51:14 , Jan 21
+                Preparing data for calculation	0:   19:02:36 , Jan 21
+                Calculation finished	69:   19:02:36 , Jan 21
+                Warnings:   Negative pressure	Minimum pressure=-282241 Pa; dV/V=4.68916, 		, A vortex crosses the pressure opening	Boundary Condition : Environment Pressure 2 ; Inlet flow/outlet flow=0.300857, 		, 
